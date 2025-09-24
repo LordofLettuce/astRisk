@@ -322,7 +322,7 @@ int main(void){
 			//add to the score
 			score++;
 			
-			if(score == 150)
+			if(score == 250)
 			{
 				fingame(name, score);
 				return 0;
